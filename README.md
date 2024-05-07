@@ -5,6 +5,7 @@ Features:
 City Input: Users can enter the name of any city worldwide.
 Temperature Conversion: The app displays the temperature in both Fahrenheit and Celsius.
 Error Handling: If the city name is invalid or no weather data is found, appropriate error messages are displayed.
+
 How to Use:
 Run the Python script (weather_app.py).
 Enter the desired city name when prompted.
